@@ -1,2 +1,2 @@
-# Kill-the-Monster
-HI 
+# Kill-the-monster
+Kill the monster
